@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my first official GIt Respository
+This is my first  GIt Respository
+Author Shradha Khappra
